@@ -4,3 +4,15 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+bevy_app = "0.17.3"
+bevy_color = "0.17.3"
+bevy_ecs = "0.17.3"
+bevy_picking = "0.17.3"
+bevy_reflect = "0.17.3"
+bevy_state = "0.17.3"
+bevy_time = "0.17.3"
+bevy_ui = "0.17.3"
+derive-new = "0.7.0"
+
+[dev-dependencies]
+bevy = "0.17.3"
